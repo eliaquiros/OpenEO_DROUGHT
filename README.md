@@ -1,4 +1,5 @@
-# OpenEO_DROUGHT  
+# OpenEO_DROUGHT 
+Authors: Elia Quirós, Laura Fragoso-Campón.
 RESPONSE OF VEGETATION INDICES TO DROUGHT  
 The proposal of this study was accepted for a OpenEO Platform Research Grant.  
 The preliminary results were presented at the LPS22 openEO Platform User consultation event.  
